@@ -20,20 +20,36 @@
 - SQLP(SQL 전문가)(2023.04.14)
 ## 프로젝트 수행 이력
 <details>
-  <summary>대명스테이션 소프트폰 개발('22.06~'23.01)</summary>
+  <summary>현대캐피탈 소프트폰 백엔드 개발('23.01~'23.07)</summary>
+  
+  #### 수행 기간
+  '23.01~'23.07
+  #### 고객사
+  현대캐피탈
+  #### 사용 언어 및 프레임워크
+  JAVA, Spring Boot, Jetty
+  #### OS 및 기타
+  Linux, Docker
+  #### 역할
+  애플리케이션 개발
+  #### 개발 항목
+  - Genesys Cloud Softphone Gateway
+</details>
+<details>
+  <summary>대명스테이션 소프트폰 백엔드 개발('22.06~'23.01)</summary>
   
   #### 수행 기간
   '22.06~'23.01
   #### 고객사
   대명스테이션
-  #### 사용 언어
-  JAVA
+  #### 사용 언어 및 프레임워크
+  JAVA, Spring Boot, Jetty
   #### OS 및 기타
   Linux
   #### 역할
-  서비스 개발 및 배포
+  애플리케이션 개발, 배포, 테스트, 유지보수
   #### 개발 항목
-  - Softphone 게이트웨이
+  - Genesys Engage Softphone Gateway
 </details>
 <details>
   <summary>현대해상 하이콜 고도화 프로젝트('22.01~'22.11)</summary>
@@ -42,12 +58,12 @@
   '22.01~'22.11
   #### 고객사
   현대해상
-  #### 사용 언어
-  JAVA
+  #### 사용 언어 및 프레임워크
+  JAVA, Spring Boot
   #### OS 및 기타
-  Linux
+  Linux, Oracle
   #### 역할
-  서비스 개발 및 배포
+  애플리케이션 개발, 배포, 테스트, 유지보수
   #### 개발 항목
   - 실시간 통계 게이트웨이
   - CAGENT 통계 데몬
@@ -61,12 +77,12 @@
   '22.01~'22.09
   #### 고객사
   삼성증권
-  #### 사용 언어
-  Python, JAVA
+  #### 사용 언어 및 프레임워크
+  Python, JAVA, Flask, Spring Boot
   #### OS 및 기타
   Linux, Docker
   #### 역할
-  서비스 개발 및 배포
+  애플리케이션 개발, 배포, 테스트, 유지보수
   #### 개발 항목
   - Info/AgentPush 게이트웨이
   - 내선 모니터링 데몬
