@@ -20,7 +20,7 @@
 - SQLP(SQL 전문가)(2023.04.14)
 ## 프로젝트 수행 이력
 <details>
-  <summary>현대캐피탈 소프트폰 백엔드 개발('23.01~'23.07)</summary>
+  <summary>현대캐피탈 호주 법인 Cloud 컨택센터 구축 프로젝트('23.01~'23.07)</summary>
   
   #### 수행 기간
   '23.01~'23.07
@@ -39,7 +39,7 @@
   - Genesys Cloud Softphone Gateway
 </details>
 <details>
-  <summary>대명스테이션 소프트폰 백엔드 개발('22.06~'23.01)</summary>
+  <summary>대명스테이션 소프트폰 백엔드 추가 개발 프로젝트('22.06~'23.01)</summary>
   
   #### 수행 기간
   '22.06~'23.01
