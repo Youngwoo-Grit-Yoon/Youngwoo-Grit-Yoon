@@ -27,9 +27,12 @@
   #### 고객사
   현대캐피탈
   #### 사용 언어 및 프레임워크
-  JAVA, Spring Boot, Jetty
+  - JAVA
+  - Spring Boot
+  - Jetty
   #### OS 및 기타
-  Linux, Docker
+  - Linux
+  - Docker
   #### 역할
   애플리케이션 개발
   #### 개발 항목
@@ -43,9 +46,11 @@
   #### 고객사
   대명스테이션
   #### 사용 언어 및 프레임워크
-  JAVA, Spring Boot, Jetty
+  - JAVA
+  - Spring Boot
+  - Jetty
   #### OS 및 기타
-  Linux
+  - Linux
   #### 역할
   애플리케이션 개발, 배포, 테스트, 유지보수
   #### 개발 항목
@@ -59,9 +64,11 @@
   #### 고객사
   현대해상
   #### 사용 언어 및 프레임워크
-  JAVA, Spring Boot
+  - JAVA
+  - Spring Boot
   #### OS 및 기타
-  Linux, Oracle
+  - Linux
+  - Oracle
   #### 역할
   애플리케이션 개발, 배포, 테스트, 유지보수
   #### 개발 항목
@@ -78,9 +85,13 @@
   #### 고객사
   삼성증권
   #### 사용 언어 및 프레임워크
-  Python, JAVA, Flask, Spring Boot
+  - Python
+  - JAVA
+  - Flask
+  - Spring Boot
   #### OS 및 기타
-  Linux, Docker
+  - Linux
+  - Docker
   #### 역할
   애플리케이션 개발, 배포, 테스트, 유지보수
   #### 개발 항목
