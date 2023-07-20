@@ -23,6 +23,7 @@
 - Database : Oracle
 - System : Linux
 - Deployment : Docker, Docker Swarm
+- SCM : Git
 ## 프로젝트 수행 이력
 <details>
   <summary>현대캐피탈 호주 법인 클라우드 컨택센터 구축('23.01~'23.07)</summary>
