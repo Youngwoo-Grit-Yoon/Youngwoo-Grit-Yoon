@@ -18,6 +18,11 @@
 - 리눅스마스터1급(2021.05.28)
 - 컴퓨터활용능력1급(2019.08.09)
 - 정보처리기사(2019.05.22)
+## 개발자 스킬
+- Language : Java, Python
+- Database : Oracle
+- System : Linux
+- Deployment : Docker, Docker Swarm
 ## 프로젝트 수행 이력
 <details>
   <summary>현대캐피탈 호주 법인 클라우드 컨택센터 구축('23.01~'23.07)</summary>
