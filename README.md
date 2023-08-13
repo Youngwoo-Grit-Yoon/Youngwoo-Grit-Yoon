@@ -1,5 +1,6 @@
 ![SQLP](https://github.com/Youngwoo-Grit-Yoon/Youngwoo-Grit-Yoon/assets/101490683/6a421ccf-bc7d-4dd8-a356-9974c349f35e)
 ![AWS SAP](https://github.com/Youngwoo-Grit-Yoon/Youngwoo-Grit-Yoon/assets/101490683/9b34c23b-8fe4-4e8e-8034-ca0202bb2779)
+![AWS DVA](https://github.com/Youngwoo-Grit-Yoon/Youngwoo-Grit-Yoon/assets/101490683/5e1eee86-e173-4197-b97c-9905ab92e87e)
 ## 자기 소개
 ### 이름
 윤영우
