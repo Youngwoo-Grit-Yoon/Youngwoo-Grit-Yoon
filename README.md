@@ -15,6 +15,7 @@
 ## 경력
 '19.12~현재 한솔인티큐브(컨택센터 서드파티 애플리케이션 개발)
 ## 자격증 및 취득일
+- AWS Certified Developer - Associate  *(취득일 : 2023.07.25)*
 - SQLP(SQL 전문가)  *(취득일 : 2023.04.14)*
 - AWS Certified Solutions Architect - Professional  *(취득일 : 2022.11.12)*
 - 정보보안산업기사  *(취득일 : 2021.11.26)*
