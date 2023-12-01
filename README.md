@@ -15,4 +15,4 @@
 
 # Career
 **2024.01~현재** OOOO Call System Developer  
-**2019.12~2023.12** CCaaS개발2팀 Backend Developer
+**2019.12~2023.12** 한솔인티큐브 Call Infra Backend Developer
