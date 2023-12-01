@@ -61,7 +61,7 @@
   ### 기술 스택
   Java, Spring Boot, Oracle, Docker, Red Hat Linux
   ### 링크
-  [프로젝트 상세 설명(Private Repository)](https://example.com/)
+  [프로젝트 상세 설명(Private Repository)](https://github.com/Youngwoo-Grit-Yoon/hansol-hyundai-project)
 </details>
 <details>
   <summary><strong>2022</strong> 삼성증권 콜센터 고도화 프로젝트</summary>
