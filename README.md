@@ -25,7 +25,17 @@
 </details>
 <details>
   <summary><strong>2023</strong> 대명스테이션 상조전산 IT 차세대 개발 프로젝트</summary>
-  내용 기입
+
+  ### 프로젝트 이름
+  대명스테이션 상조전산 IT 차세대 개발 프로젝트
+  ### 수행 기간
+  2023.01 ~ 2023.08
+  ### 수행 역할
+  - 상담원 소프트폰 백엔드 서버 개발
+  ### 기술 스택
+  Java, Spring Boot, Jetty Web Framework, Red Hat Linux
+  ### 링크
+  [프로젝트 상세 설명(Private Repository)](https://example.com/)
 </details>
 <details>
   <summary><strong>2022</strong> 현대해상 하이콜 고도화 프로젝트</summary>
