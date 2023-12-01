@@ -41,7 +41,12 @@
 </details>
 <details>
   <summary><strong>2020~2023</strong> KT 클라우드 옴니채널 컨택센터 운영</summary>
-  내용 기입
+  
+  #### 수행 역할
+  - 문자 발송 Backend 서버 기능 고도화 및 유지보수
+  - 문자 발송 결과 업데이트 배치 애플리케이션 개발
+  #### 기술 스택
+  Python, Flask, MariaDB, Docker, Red Hat Linux
 </details>
 
 # Certificate
