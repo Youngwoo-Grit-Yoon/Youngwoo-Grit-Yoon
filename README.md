@@ -44,7 +44,7 @@
   2021.01 ~ 2021.10
   ### 수행 역할
   - 벤더사 PDS 설치 및 운용
-  - 벤더사 Java SDK 개발 가이드
+  - 협력 업체에 벤더사 Java SDK 개발 가이드
   ### 기술 스택
   Java, Red Hat Linux
 </details>
