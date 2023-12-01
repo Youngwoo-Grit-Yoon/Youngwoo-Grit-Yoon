@@ -75,7 +75,7 @@
   ### 기술 스택
   Java, Spring Boot, Python, Flask, Docker, Docker Swarm, Red Hat Linux
   ### 링크
-  [프로젝트 상세 설명(Private Repository)](https://example.com/)
+  [프로젝트 상세 설명(Private Repository)](https://github.com/Youngwoo-Grit-Yoon/hansol-samsung-project)
 </details>
 <details>
   <summary><strong>2021</strong> 신한금융투자 AI 컨택센터 구축 프로젝트</summary>
