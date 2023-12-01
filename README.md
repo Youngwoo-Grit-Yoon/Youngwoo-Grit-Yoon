@@ -23,8 +23,14 @@
 **2023** 대명스테이션 상조전산 IT 차세대 개발 프로젝트  
 **2022** 현대해상 하이콜 고도화 프로젝트  
 **2022** 삼성증권 콜센터 고도화 프로젝트  
-**2021** 신한금융투자 AI 컨택센터 구축 프로젝트  
-**2020~2023** KT 클라우드 옴니채널 컨택센터 운영
+<details>
+  <summary><strong>2021</strong> 신한금융투자 AI 컨택센터 구축 프로젝트</summary>
+  내용 기입
+</details>
+<details>
+  <summary><strong>2020~2023</strong> KT 클라우드 옴니채널 컨택센터 운영</summary>
+  내용 기입
+</details>
 
 # Certificate
 **2023** AWS Certified Developer - Associate  
