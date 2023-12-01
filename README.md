@@ -16,3 +16,7 @@
 # Career
 **2024.01~현재** OOOO Call System Developer  
 **2019.12~2023.12** 한솔인티큐브 Call Infra Backend Developer
+
+# Experience
+**2023** 현대캐피탈 컨택센터 구축 프로젝트  
+**2023** 대명스테이션 상조전산 IT 차세대 개발 프로젝트
