@@ -40,7 +40,7 @@
   2022.01 ~ 2022.09
   ### 수행 역할
   - Push 알림 백엔드 서버 개발
-  - 상담원 전화기 실시간 콜 이벤트 처리 애플리케이션 개발
+  - 상담원 전화기 콜 이벤트 모니터링 애플리케이션 개발
   ### 기술 스택
   Java, Spring Boot, Python, Flask, Docker, Docker Swarm, Red Hat Linux
 </details>
