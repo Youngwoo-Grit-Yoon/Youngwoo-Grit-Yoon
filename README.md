@@ -28,7 +28,7 @@
 # Certificate
 **2023** AWS Certified Developer - Associate  
 **2023** SQLP(SQL 전문가)  
-**2022** AWS Certified Solutions Architect – Professional  
+**2022** AWS Certified Solutions Architect - Professional  
 **2021** 정보보안산업기사  
 **2021** 리눅스마스터1급  
 **2019** 컴퓨터활용능력1급  
