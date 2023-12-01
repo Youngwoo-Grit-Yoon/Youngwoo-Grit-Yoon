@@ -9,3 +9,10 @@
 
 # Education
 **2020** 단국대학교 응용컴퓨터공학과 학사 졸업
+
+# Language Skill
+**2023.07** TOEIC 865점
+
+# Career
+**2024.01~현재** OOOO Call System Developer  
+**2019.12~2023.12** CCaaS개발2팀 Backend Developer
