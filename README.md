@@ -29,7 +29,18 @@
 </details>
 <details>
   <summary><strong>2022</strong> 현대해상 하이콜 고도화 프로젝트</summary>
-  내용 기입
+
+  ### 프로젝트 이름
+  현대해상 하이콜 고도화 프로젝트
+  ### 수행 기간
+  2022.01 ~ 2022.08
+  ### 수행 역할
+  - 실시간 통계 백엔드 서버 개발
+  - 실시간 통계 배치 애플리케이션 개발
+  ### 기술 스택
+  Java, Spring Boot, Oracle, Docker, Red Hat Linux
+  ### 링크
+  [프로젝트 상세 설명(Private Repository)](https://example.com/)
 </details>
 <details>
   <summary><strong>2022</strong> 삼성증권 콜센터 고도화 프로젝트</summary>
