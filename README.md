@@ -33,3 +33,19 @@
 **2021** 리눅스마스터1급  
 **2019** 컴퓨터활용능력1급  
 **2019** 정보처리기사
+
+# Developer Skills
+## Programming Language
+Java(Spring Boot), Python(Flask), JavaScript(Vanilla JS), HTML
+## Database
+Oracle, MSSQL, MariaDB
+## Protocol
+HTTP, WebSocket, TCP 전문 통신
+## Deployment
+Docker, Docker Swarm
+## OS
+Red Hat Linux
+## Cloud
+AWS EC2
+## SCM
+Git
