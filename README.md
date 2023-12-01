@@ -37,7 +37,16 @@
 </details>
 <details>
   <summary><strong>2021</strong> 신한금융투자 AI 컨택센터 구축 프로젝트</summary>
-  내용 기입
+
+  ### 프로젝트 이름
+  신한금융투자 AI 컨택센터 구축 프로젝트
+  ### 수행 기간
+  2021.01 ~ 2021.10
+  ### 수행 역할
+  - 벤더사 PDS 설치 및 운용
+  - 벤더사 Java SDK 개발 가이드
+  ### 기술 스택
+  Java, Red Hat Linux
 </details>
 <details>
   <summary><strong>2020~2023</strong> KT 클라우드 옴니채널 컨택센터 운영</summary>
