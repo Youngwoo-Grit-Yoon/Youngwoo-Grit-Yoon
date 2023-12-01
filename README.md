@@ -70,7 +70,7 @@
   ### 기술 스택
   Python, Flask, MariaDB, Docker, Red Hat Linux
   ### 링크
-  [프로젝트 상세 설명](https://example.com/)
+  [프로젝트 상세 설명(Private)](https://example.com/)
 </details>
 
 # Certificate
