@@ -43,6 +43,8 @@
   - 상담원 전화기 콜 이벤트 모니터링 애플리케이션 개발
   ### 기술 스택
   Java, Spring Boot, Python, Flask, Docker, Docker Swarm, Red Hat Linux
+  ### 링크
+  [프로젝트 상세 설명(Private Repository)](https://example.com/)
 </details>
 <details>
   <summary><strong>2021</strong> 신한금융투자 AI 컨택센터 구축 프로젝트</summary>
@@ -56,6 +58,8 @@
   - 협력 업체에 벤더사 Java SDK 개발 가이드
   ### 기술 스택
   Java, Red Hat Linux
+  ### 링크
+  [프로젝트 상세 설명(Private Repository)](https://example.com/)
 </details>
 <details>
   <summary><strong>2020~2023</strong> KT 클라우드 옴니채널 컨택센터 운영</summary>
