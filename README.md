@@ -19,10 +19,22 @@
 **2019.12~2023.12** 한솔인티큐브 Call Infra Backend Developer
 
 # Experience
-**2023** 현대캐피탈 컨택센터 구축 프로젝트  
-**2023** 대명스테이션 상조전산 IT 차세대 개발 프로젝트  
-**2022** 현대해상 하이콜 고도화 프로젝트  
-**2022** 삼성증권 콜센터 고도화 프로젝트  
+<details>
+  <summary><strong>2023</strong> 현대캐피탈 컨택센터 구축 프로젝트</summary>
+  내용 기입
+</details>
+<details>
+  <summary><strong>2023</strong> 대명스테이션 상조전산 IT 차세대 개발 프로젝트</summary>
+  내용 기입
+</details>
+<details>
+  <summary><strong>2022</strong> 현대해상 하이콜 고도화 프로젝트</summary>
+  내용 기입
+</details>
+<details>
+  <summary><strong>2022</strong> 삼성증권 콜센터 고도화 프로젝트</summary>
+  내용 기입
+</details>
 <details>
   <summary><strong>2021</strong> 신한금융투자 AI 컨택센터 구축 프로젝트</summary>
   내용 기입
