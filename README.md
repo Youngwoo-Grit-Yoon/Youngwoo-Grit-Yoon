@@ -33,7 +33,16 @@
 </details>
 <details>
   <summary><strong>2022</strong> 삼성증권 콜센터 고도화 프로젝트</summary>
-  내용 기입
+
+  ### 프로젝트 이름
+  삼성증권 콜센터 고도화 프로젝트
+  ### 수행 기간
+  2022.01 ~ 2022.09
+  ### 수행 역할
+  - Push 알림 백엔드 서버 개발
+  - 상담원 전화기 실시간 콜 이벤트 처리 애플리케이션 개발
+  ### 기술 스택
+  Java, Spring Boot, Python, Flask, Docker, Docker Swarm, Red Hat Linux
 </details>
 <details>
   <summary><strong>2021</strong> 신한금융투자 AI 컨택센터 구축 프로젝트</summary>
@@ -56,7 +65,7 @@
   ### 수행 기간
   2020.01 ~ 2023.12
   ### 수행 역할
-  - 문자 발송 Backend 서버 기능 고도화 및 유지보수
+  - 문자 발송 백엔드 서버 기능 고도화 및 유지보수
   - 문자 발송 결과 업데이트 배치 애플리케이션 개발
   ### 기술 스택
   Python, Flask, MariaDB, Docker, Red Hat Linux
