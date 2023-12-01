@@ -32,7 +32,7 @@
   ### 기술 스택
   Java, Spring Boot, Jetty Web Framework, Amazon Linux
   ### 링크
-  [프로젝트 상세 설명(Private Repository)](https://github.com/Youngwoo-Grit-Yoon/hansol-hyundaicapital-project)
+  [프로젝트 설명(Private Repository)](https://github.com/Youngwoo-Grit-Yoon/hansol-hyundaicapital-project)
 </details>
 <details>
   <summary><strong>2023</strong> 대명스테이션 상조전산 IT 차세대 개발 프로젝트</summary>
@@ -46,7 +46,7 @@
   ### 기술 스택
   Java, Spring Boot, Jetty Web Framework, Red Hat Linux
   ### 링크
-  [프로젝트 상세 설명(Private Repository)](https://github.com/Youngwoo-Grit-Yoon/hansol-daemyung-project)
+  [프로젝트 설명(Private Repository)](https://github.com/Youngwoo-Grit-Yoon/hansol-daemyung-project)
 </details>
 <details>
   <summary><strong>2022</strong> 현대해상 하이콜 고도화 프로젝트</summary>
@@ -61,7 +61,7 @@
   ### 기술 스택
   Java, Spring Boot, Oracle, Docker, Red Hat Linux
   ### 링크
-  [프로젝트 상세 설명(Private Repository)](https://github.com/Youngwoo-Grit-Yoon/hansol-hyundai-project)
+  [프로젝트 설명(Private Repository)](https://github.com/Youngwoo-Grit-Yoon/hansol-hyundai-project)
 </details>
 <details>
   <summary><strong>2022</strong> 삼성증권 콜센터 고도화 프로젝트</summary>
@@ -76,7 +76,7 @@
   ### 기술 스택
   Java, Spring Boot, Python, Flask, Docker, Docker Swarm, Red Hat Linux
   ### 링크
-  [프로젝트 상세 설명(Private Repository)](https://github.com/Youngwoo-Grit-Yoon/hansol-samsung-project)
+  [프로젝트 설명(Private Repository)](https://github.com/Youngwoo-Grit-Yoon/hansol-samsung-project)
 </details>
 <details>
   <summary><strong>2021</strong> 신한금융투자 AI 컨택센터 구축 프로젝트</summary>
@@ -91,7 +91,7 @@
   ### 기술 스택
   Java, Red Hat Linux
   ### 링크
-  [프로젝트 상세 설명(Private Repository)](https://github.com/Youngwoo-Grit-Yoon/hansol-shinhan-project)
+  [프로젝트 설명(Private Repository)](https://github.com/Youngwoo-Grit-Yoon/hansol-shinhan-project)
 </details>
 <details>
   <summary><strong>2020~2023</strong> KT 클라우드 옴니채널 컨택센터 운영</summary>
@@ -106,7 +106,7 @@
   ### 기술 스택
   Python, Flask, MariaDB, Docker, Red Hat Linux
   ### 링크
-  [프로젝트 상세 설명(Private Repository)](https://github.com/Youngwoo-Grit-Yoon/hansol-kt-project)
+  [프로젝트 설명(Private Repository)](https://github.com/Youngwoo-Grit-Yoon/hansol-kt-project)
 </details>
 
 # Certificate
