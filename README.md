@@ -24,3 +24,12 @@
 **2022** 삼성증권 콜센터 고도화 프로젝트  
 **2021** 신한금융투자 AI 컨택센터 구축 프로젝트  
 **2020~2023** KT 클라우드 옴니채널 컨택센터 운영
+
+# Certificate
+**2023** AWS Certified Developer - Associate  
+**2023** SQLP(SQL 전문가)  
+**2022** AWS Certified Solutions Architect – Professional  
+**2021** 정보보안산업기사  
+**2021** 리눅스마스터1급  
+**2019** 컴퓨터활용능력1급  
+**2019** 정보처리기사
