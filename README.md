@@ -21,7 +21,17 @@
 # Experience
 <details>
   <summary><strong>2023</strong> 현대캐피탈 컨택센터 구축 프로젝트</summary>
-  내용 기입
+
+  ### 프로젝트 이름
+  현대캐피탈 컨택센터 구축 프로젝트
+  ### 수행 기간
+  2023.09 ~ 2023.12
+  ### 수행 역할
+  - 직원용 소프트폰 백엔드 서버 개발(클라우드 콜 인프라 연동)
+  ### 기술 스택
+  Java, Spring Boot, Jetty Web Framework, Amazon Linux
+  ### 링크
+  [프로젝트 상세 설명(Private Repository)](https://example.com/)
 </details>
 <details>
   <summary><strong>2023</strong> 대명스테이션 상조전산 IT 차세대 개발 프로젝트</summary>
@@ -31,7 +41,7 @@
   ### 수행 기간
   2023.01 ~ 2023.08
   ### 수행 역할
-  - 상담원 소프트폰 백엔드 서버 개발
+  - 상담원 소프트폰 백엔드 서버 개발(온프레미스 CTI 연동)
   ### 기술 스택
   Java, Spring Boot, Jetty Web Framework, Red Hat Linux
   ### 링크
