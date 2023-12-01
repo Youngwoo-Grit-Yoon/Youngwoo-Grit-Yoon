@@ -69,6 +69,8 @@
   - 문자 발송 결과 업데이트 배치 애플리케이션 개발
   ### 기술 스택
   Python, Flask, MariaDB, Docker, Red Hat Linux
+  ### 링크
+  [프로젝트 상세 설명](https://example.com/)
 </details>
 
 # Certificate
