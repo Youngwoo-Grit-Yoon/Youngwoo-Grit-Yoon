@@ -15,7 +15,7 @@
 **2023.07** TOEIC 865점
 
 # Career  
-**2024.01~현재** 토스뱅크 Call System Developer
+**2024.01~현재** 토스뱅크 Call System Developer  
 **2019.12~2023.12** 한솔인티큐브 Call Infra Backend Developer
 
 # Experience
