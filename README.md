@@ -7,6 +7,7 @@
 이름 : 윤영우  
 나이 : 만 28세(1995.05.27)  
 관심 : Spring Boot, MSA, JPA, Apache Kafka, Data Modeling  
+좌우명 : 안광지배철(眼光紙背撤)  
 
 # Education
 **2020.02** 단국대학교 응용컴퓨터공학과 학사 졸업
