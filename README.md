@@ -6,7 +6,7 @@
 # About me
 이름 : 윤영우  
 나이 : 만 28세(1995.05.27)  
-현재 관심 : Kotlin, JPA, Apache Kafka
+현재 읽고 있는 책 : Kotlin IN ACTION, 헤드 퍼스트 디자인 패턴, 자바 ORM 표준 JPA 프로그래밍
 
 # Education
 **2020.02** 단국대학교 응용컴퓨터공학과 학사 졸업
