@@ -20,6 +20,21 @@
 
 # Experience
 <details>
+  <summary><strong>2023</strong> 토스뱅크 상담단말 운영</summary>
+
+  ### 업무 이름
+  상담단말 운영
+  ### 소속 회사
+  토스뱅크
+  ### 수행 기간
+  2024.01 ~ 현재
+  ### 수행 역할
+  - 장애 분석 및 조치
+  - 추가 요건 개발
+  ### 기술 스택
+  Java, Spring Framework, JavaScript
+</details>
+<details>
   <summary><strong>2023</strong> 현대캐피탈 컨택센터 구축 프로젝트</summary>
 
   ### 프로젝트 이름
