@@ -20,10 +20,10 @@
 
 # Experience
 <details>
-  <summary><strong>2023</strong> 토스뱅크 상담단말 운영</summary>
+  <summary><strong>2024</strong> 토스뱅크 상담단말 운영 및 개발</summary>
 
   ### 업무 이름
-  상담단말 운영
+  상담단말 운영 및 개발
   ### 소속 회사
   토스뱅크
   ### 수행 기간
@@ -31,6 +31,7 @@
   ### 수행 역할
   - 장애 분석 및 조치
   - 추가 요건 개발
+  - 자동화 시스템 개발
   ### 기술 스택
   Java, Spring Framework, JavaScript
 </details>
